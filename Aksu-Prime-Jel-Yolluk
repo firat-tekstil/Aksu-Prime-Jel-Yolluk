@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Aksu Prime Halı</title>
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; }
+    iframe { width: 100%; height: 100vh; border: none; }
+  </style>
+</head>
+<body>
+  <iframe src="Aksu%20Prime%20Hal%C4%B1%20F%C4%B1rat%20Tekstil.pdf"></iframe>
+</body>
+</html>
